@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center"><img alt="GIF" align="center" src="https://media.tenor.com/6NAQrDSOcEMAAAAi/hello.gif"></div>
 <h1 align="center">Hi 👋, I'm Rajin Bhuju</h1>
 <h3 align="center">Frontend developer</h3>
 
