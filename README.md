@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rajin Bhuju</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Razeen1](https://github.com/Razeen1)
+<h6 align="center">👨‍💻 All of my projects are available at [https://github.com/Razeen1](https://github.com/Razeen1)</h6>
 
-- 📫 How to reach me **rz.bhuju12@gmail.com**
+<h6 align="center">📫 How to reach me **rz.bhuju12@gmail.com**</h6>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
