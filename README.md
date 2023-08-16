@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
 <div align="center"><img alt="GIF" align="center" src="https://media.tenor.com/6NAQrDSOcEMAAAAi/hello.gif"></div>
 <h1 align="center">Hi 👋, I'm Rajin Bhuju</h1>
-<h3 align="center">Frontend developer</h3>
-
-<h6 align="center">👨‍💻 All of my projects are available at [https://github.com/Razeen1](https://github.com/Razeen1)</h6>
+ <div align="center"><img height="50" alt="Frontend developer" src="front.png" /></div>
+<h6 align="center">👨‍💻 All of my projects are available at &nbsp;  <a href="https://github.com/Razeen1"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white"></a></h6>
 
 <h6 align="center">📫 How to reach me **rz.bhuju12@gmail.com**</h6>
 
